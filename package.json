@@ -1,0 +1,21 @@
+{
+  "name": "warpthread-cli",
+  "version": "1.0.0",
+  "description": "High‑performance concurrency and low‑level system utilities for Node.js",
+  "type": "module",
+  "bin": {
+    "warpthread": "./src/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "concurrency",
+    "cli",
+    "nodejs",
+    "performance",
+    "systems"
+  ],
+  "author": "Suman Mehta",
+  "license": "MIT"
+}
